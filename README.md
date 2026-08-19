@@ -1,5 +1,3 @@
-Here is your updated README with the **Screenshots section completely removed**:
-
 # 📝 Notes App
 
 A simple and modern **Notes App built with Flutter and Hive**.
